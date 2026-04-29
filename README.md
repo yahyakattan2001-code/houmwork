@@ -1,21 +1,17 @@
 # Merhaba 👋
 
-Ben [Adın Soyadın]
+Ben Yahya KATTAN
 
-## Hakkımda
-Yazılım geliştirmeyle ilgileniyorum ve kendimi sürekli geliştirmeye çalışıyorum.
+Yazılım geliştirmeye ilgi duyan bir geliştiriciyim. Kendimi sürekli geliştirmeye çalışıyor ve yeni teknolojiler öğreniyorum.
 
-## İlgi Alanlarım
+## 🚀 İlgi Alanlarım
 - Web Geliştirme
 - Yapay Zeka
 - Veri Analizi
 
-## Kullandığım Teknolojiler
+## 🛠️ Kullandığım Teknolojiler
 - Python
-- JavaScript
-- HTML & CSS
+- Java
+- C & C++
+- HTML
 - Git & GitHub
-
-## Bana Ulaşın
-- LinkedIn: ...# houmwork
-Computer engineering student interested in software development
